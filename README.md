@@ -1,3 +1,5 @@
+# Group project for Computer Vision Exam
+
 # Soccer Action Classification
 
 Action classification and retrieval of soccer videos using <a href="https://soccer-net.org/">SoccerNet-V2 dataset</a>.
