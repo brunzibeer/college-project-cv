@@ -1,0 +1,1 @@
+Mancano i pesi di Yolo pretrainati e le immagini che ho usato perchè sono troppo pesanti
